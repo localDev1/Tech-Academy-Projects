@@ -2,4 +2,4 @@ Esto es mi primer texto en GIT
 Nueva linea de texto en mi archivo
 Esta es una nueva linea para mi miPrimerBranch
 Agregando una nueva modificacion al archivo1
-agregando texto en conflicto
+linea correcta
